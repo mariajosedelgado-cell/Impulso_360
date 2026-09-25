@@ -85,6 +85,6 @@
     transform: scale(1.08);
 }
 .boton{
-    align-items:end
-
+    align-items:end;
+    border-radius: 40px;
 }
